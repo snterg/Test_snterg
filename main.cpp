@@ -8,7 +8,7 @@ if(argc<1)
     cout<<"Hello world\n";
 else 
 {
-for int i=1;i<argc;++i)
+for (int i=1;i<argc;++i)
 cout<<argv[i]<<endl;
 }
     return 0;
